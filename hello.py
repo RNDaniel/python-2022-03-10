@@ -50,3 +50,6 @@ print(f"A {name} emberke {age} eves")
 print(f"A 3+5 kifejezés értéke {9+5}")
 
 print("hello github")
+
+#plusz egy sor
+#plusz egy sor 2
