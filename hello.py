@@ -30,7 +30,7 @@ number_of_cars_in_parking = 20
 print(number_of_cars)
 print(number_of_cars_in_parking)
 
-print(len("alma"))
+print(len("meggy"))
 length_of_apple = len("alma")
 print(length_of_apple)
 
@@ -47,4 +47,6 @@ print(name +" "+ str(age))
 print(name,age, "eves", sep="*****")
 
 print(f"A {name} emberke {age} eves")
-print(f"A 3+5 kifejezés értéke {3+5}")
+print(f"A 3+5 kifejezés értéke {9+5}")
+
+print("hello github")
