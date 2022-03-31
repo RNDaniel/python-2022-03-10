@@ -30,3 +30,4 @@ def test_list():
     driver=go_to_page()
     items=get_list_items(driver)
     assert items ==["Python","HTML","JavaScript"]
+
